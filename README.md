@@ -53,10 +53,10 @@ Para descargar los archivos correspondientes, sigue estos pasos:
 ## Ejecución mediante un servidor local locahost
 
 Para la ejecución del programa de forma local es neceario usar un servidor local o localhost
-que nos ayudará a evitar errores y conflictos de seguridad si se hace desde el cliente de archivos local. De otra forma el navegador seguramente bloqueará el cargue de los recursos locales de la biblioteca de p5.
+que nos ayudará a evitar errores y conflictos de seguridad si se hace desde el cliente de archivos local. De otra forma el navegador seguramente bloqueará la carga de los recursos locales de la biblioteca de p5.
 
-Si no esta famliarizado con la instalación y uso de un servidor local una solución rapida es usando el
-IDE VisualStudio code mediante la extensión liverserver la cual está disponible en la tienda de extensiones.
+Si no esta familiarizado con la instalación y uso de un servidor local una solución rapida es usando el
+IDE VisualStudio code mediante la extensión liveserver la cual está disponible en la tienda de extensiones.
 
 
 ## Integrantes
