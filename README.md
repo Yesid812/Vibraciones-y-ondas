@@ -27,7 +27,7 @@ Para ejecutar estas simulaciones, están disponibles en la plataforma GitHub Pag
 
 ## Instrucciones
 
-Puede ejecutar la aplicion usando los link anteriores o si ha clonado el repositorio, más adelante
+Puede ejecutar la aplicación usando los link anteriores o si ha clonado el repositorio, más adelante
 se mencionará como hacerlo de forma local, de cualquier manera las intrucciones de uso son iguales,
 no te preocupes. 
 
@@ -45,7 +45,9 @@ no te preocupes.
 Para descargar los archivos correspondientes, sigue estos pasos:
 
 1. Haz clic en el enlace "Code" en la página principal del repositorio.
+![PASO_1](https://github.com/Yesid812/Vibraciones-y-ondas/assets/81316685/4260274a-84fb-4e37-94ce-861f18da0250)
 2. Selecciona "Download ZIP".
+![PASO_2](https://github.com/Yesid812/Vibraciones-y-ondas/assets/81316685/809658da-2efd-4de1-88db-1a5b4740a887)
 3. Descomprime el archivo ZIP descargado para acceder a los archivos fuente del proyecto.
 
 ## Ejecución mediante un servidor local locahost
